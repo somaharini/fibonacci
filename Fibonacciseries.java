@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 public class Fibonacciseries {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
